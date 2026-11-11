@@ -1,6 +1,6 @@
 {
-  "version": "1.3.0",
-  "url": "https://github.com/AdexanVR/gorebox-dist/releases/download/v1.3.0/Gorebox.zip",
-  "sha256": "ca9e25fc4b65a6d80c1efee60820b4599ad1caaae4d163f2a83e088f2eb4596e",
-  "sig": "TY7Dgd0sQxBVHNQPkgCSlHFL4689AdqCB_nNwfe7lvLp6PFW5oG66bcUeovGTEsIgH1S5F0jIsW4ERFX0sfOew"
+  "version": "1.3.1",
+  "url": "https://github.com/AdexanVR/gorebox-dist/releases/download/v1.3.1/Gorebox.zip",
+  "sha256": "15c0936688659f9a37dcbce4dfe9cd31954dd244a1ec99749ad6d379651902b3",
+  "sig": "51PG-ep4NCuZV0ms5Bwjzh8Y-JjfJhy8KUsCV6t1r_45Sbrhfrw5523MCMr1sBuclNiSh2xr0wVGYXbhp0aL2g"
 }
